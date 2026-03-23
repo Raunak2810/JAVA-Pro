@@ -1,25 +1,34 @@
-📘 Java Lab Experiments – README
-📌 Overview
+# 📘Java Lab Experiments – README
 
-This repository contains Java programs performed as part of the Java Programming Laboratory course in college.
-The experiments cover fundamental to intermediate Java concepts including object-oriented programming, control structures, arrays, strings, exception handling, and file handling.
+## 📌Overview
+This repository contains Java programs performed as part of the Java Programming Laboratory in college. The experiments include basic to intermediate Java concepts such as control statements, arrays, object-oriented programming, exception handling, and file handling.
 
-🎯 Objectives
-Understand basic Java syntax and structure
-Learn Object-Oriented Programming (OOP) concepts
-Implement Java programs using classes and objects
-Practice exception handling and file operations
-Develop logical problem-solving skills using Java
-🛠️ Requirements
-Software Required
-Java JDK (Version 8 or above)
-Any IDE or Code Editor:
-Eclipse / IntelliJ IDEA / VS Code / NetBeans
-Command Prompt / Terminal
-Installation Check
+---
+
+## 🎯Objectives
+- Learn basic Java programming concepts
+- Understand Object-Oriented Programming (OOP)
+- Implement programs using classes and objects
+- Practice exception and file handling
+- Improve logical and programming skills
+
+---
+
+## 🛠️Requirements
+
+Software Required:
+- Java JDK (Version 8 or above)
+- IDE (Eclipse / IntelliJ IDEA / NetBeans / VS Code)
+- Command Prompt or Terminal
+
+Check Java Installation:
 java -version
 javac -version
-📂 Folder Structure
+
+---
+
+## 📂Folder Structure
+
 Java-Lab/
 │
 ├── Experiment1_HelloWorld.java
@@ -31,45 +40,63 @@ Java-Lab/
 ├── Experiment7_ExceptionHandling.java
 ├── Experiment8_FileHandling.java
 └── README.md
-🧪 List of Experiments
-Exp No.	Experiment Name	Concept Covered
-1	Hello World Program	Basic Syntax
-2	Data Types & Variables	Variables
-3	Control Statements	if, switch, loops
-4	Arrays	Array Operations
-5	Classes & Objects	OOP Basics
-6	Inheritance	OOP Concept
-7	Exception Handling	try-catch
-8	File Handling	File I/O
-▶️ How to Run Programs
-Compile Program
+
+---
+
+## 🧪List of Experiments
+
+1. Hello World Program
+2. Data Types and Variables
+3. Control Statements (if, switch, loops)
+4. Arrays
+5. Classes and Objects
+6. Inheritance
+7. Exception Handling
+8. File Handling
+
+---
+
+## ▶️How to Run Programs
+
+Compile:
 javac FileName.java
-Run Program
+
+Run:
 java FileName
 
 Example:
-
 javac HelloWorld.java
 java HelloWorld
-💡 Concepts Covered
-Java Basics
-OOP Concepts
-Class & Object
-Inheritance
-Polymorphism
-Encapsulation
-Arrays & Strings
-Exception Handling
-File Handling
-👨‍🎓 Student Details
+
+---
+
+## 💡Concepts Covered
+- Java Basics
+- Classes and Objects
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Arrays and Strings
+- Exception Handling
+- File Handling
+
+---
+
+## 👨‍🎓Student Details
 Name: Raunak Mishra
-Course: B.Tech Computer Sciences 
+
+Course: B.Tech Computer Sciences
+
 Subject: Java Programming Lab
-College: Arya college of engineering 
-📅 Academic Year
 
-2024–2028
+College: Arya College Of Engineering
 
-✅ Conclusion
+---
 
-These experiments helped in understanding Java programming fundamentals and applying object-oriented concepts through practical implementation.
+## Academic Year
+2025–2026
+
+---
+
+## Conclusion
+These Java lab experiments provide practical understanding of programming fundamentals and object-oriented concepts through hands-on implementation.
